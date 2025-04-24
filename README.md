@@ -8,3 +8,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 Editado desde GitHub
 
 Cambio nuevos en Github
+Otro problema, esta vez aceptare local
