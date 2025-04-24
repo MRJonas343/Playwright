@@ -7,4 +7,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 Editado desde GitHub
 
-Cambio nuevos verificaod y hecho en local
+Cambio nuevos en Github
